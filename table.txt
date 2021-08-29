@@ -1,0 +1,111 @@
+hydrogen 1 1.00797 H explosive gas, lightest element
+helium 2 4.00260 He inert gas, second-lightest element
+lithium 3 6.941 Li lightest metal, soft, reactive
+beryllium 4 9.01218 Be lightweight metal
+boron 5 10.81 B hard black solid
+carbon 6 12.011 C hard diamond, soft graphite
+nitrogen 7 14.0067 N colorless gas
+oxygen 8 15.9994 O colorless gas
+fluorine 9 18.998403 F yellowish poison gas, most reactive element
+neon 10 20.179 Ne inert gas
+sodium 11 22.98977 Na soft metal, reactive
+magnesium 12 24.305 Mg lightweight metal
+aluminum 13 26.98154 Al lightweight non-corroding metal
+silicon 14 28.0855 Si hard metalloid
+phosphorus 15 30.97376 P glowing white waxy solid (also red and black forms)
+sulphur 16 32.06 S brittle yellow solid
+chlorine 17 35.453 Cl greenish poison gas
+argon 18 39.948 Ar inert gas
+potassium 19 39.0983 K soft metal, reactive
+calcium 20 40.08 Ca soft metal
+scandium 21 44.9559 Sc soft lightweight metal
+titanium 22 47.90 Ti strongest lightweight metal, heat-resistant
+vanadium 23 50.9415 V hard metal
+chromium 24 51.996 Cr hard shiny metal
+manganese 25 54.9380 Mn hard metal
+iron 26 55.847 Fe medium-hard metal, magnetic
+cobalt 27 58.9332 Co hard metal, magnetic
+nickel 28 58.70 Ni medium-hard metal, magnetic
+copper 29 63.546 Cu colored metal, conducts heat and electricity well
+zinc 30 65.38 Zn non-corroding metal
+gallium 31 69.72 Ga soft metal, melts on a hot day
+germanium 32 72.59 Ge brittle metalloid
+arsenic 33 74.9216 As brittle metalloid
+selenium 34 78.96 Se brittle gray solid
+bromine 35 79.904 Br dark red liquid
+krypton 36 83.80 Kr inert gas
+rubidium 36 85.4678 Rb soft metal, reactive
+strontium 37 87.62 Sr soft metal
+yttrium 38 88.9059 Y soft metal
+zirconium 39 91.22 Zr non-corroding neutron-resistant metal
+niobium 41 92.9064 Nb high-melting-point non-corroding metal
+molybdenum 42 95.94 Mo high-melting-point metal
+technetium 43 98 Tc radioactive, long-lived
+ruthenium 44 101.07 Ru non-corroding hard metal
+rhodium	45 102.9055 Rh non-corroding hard shiny metal
+palladium 46 106.4 Pd non-corroding hard metal, absorbs hydrogen
+silver 47107.868 Ag soft shiny metal, conducts electricity best of all elements
+cadmium 48 112.41 Cd non-corroding soft metal, toxic
+indium 49 114.82 In soft metal
+tin	50 118.69 Sn non-corroding soft metal
+antimony 51 121.75 Sb brittle metalloid
+tellurium 52 127.60 Te brittle metalloid
+iodine 53 126.9045 I violet-black solid
+xenon 54 131.30 Xe inert gas
+cesium 55 132.9054 Cs soft metal, melts on a hot day, reactive, largest stable atoms
+barium 56 137.33 Ba soft metal, absorbs X-rays
+lanthanum 57 138.9055 La soft metal
+cerium 58 140.12 Ce soft metal
+praseodymium 59 140.9077 Pr soft metal
+neodymium 60 144.24 Nd soft metal
+promethium 61 145 Pm radioactive, long-lived
+samarium 62 150.4 Sm soft metal
+europium 63 151.96 Eu soft metal
+gadolinium 64 157.25 Gd soft metal, best neutron absorber, magnetic
+terbium 65 158.9254 Tb soft metal
+dysprosium 66 162.50 Dy soft metal
+holmium 67 164.9304 Ho soft metal
+erbium 68 167.26 Er soft metal
+thulium 69 168.9342 Tm soft metal
+ytterbium 70 173.04 Yb soft metal
+lutetium 71 174.967 Lu soft metal, densest and hardest rare earth metal
+hafnium 72 178.49 Hf non-corroding metal, absorbs neutrons
+tantalum 73 180.9479 Ta high-melting-point non-corroding metal
+tungsten 74 183.85 W highest-melting-point metal, dense
+rhenium 75 186.207 Re high-melting-point dense metal
+osmium 76 190.2 Os non-corroding high-melting-point hard metal, densest element (same as Ir)
+iridium 77 192.22 Ir non-corroding hard metal, densest element (same as Os)
+platinum 78 195.09 Pt non-corroding dense metal
+gold 79 196.9665 Au most malleable element, dense non-tarnishing colored metal
+mercury 80 200.59 Hg liquid metal, toxic
+thallium 81 204.37 Tl soft metal, toxic
+lead 82 207.2 Pb dense, soft, non-corroding metal, toxic
+bismuth 83 208.9804 Bi low melting point, brittle metal
+polonium 84 209 Po radioactive, long-lived
+astatine 85 210 At radioactive, short-lived
+radon 86 222 Rn radioactive gas, short-lived
+francium 87 223 Fr radioactive, short-lived, atoms larger than cesium
+radium 88 226.0254 Ra radioactive, long-lived
+actinium 89 227.0278 Ac radioactive, long-lived
+thorium 90 232.0381 Th radioactive, long-lived
+protactinium 91 231.0359 Pa radioactive, long-lived
+uranium 92 238.029 U radioactive, long-lived, dense
+neptunium 93 237.0482 Np radioactive, long-lived
+plutonium 94 242 Pu radioactive, long-lived
+americium 95 243 Am radioactive, long-lived never found in nature
+curium 96 247 Cm radioactive, long-livednever found in nature
+berkelium 97 247 Bkradioactive, long-lived never found in nature, no uses
+californium 98 251 Cf radioactive, long-lived never found in nature, scientific instruments, mineral analyzers, radwaste
+einsteinium 99 252 Es radioactive, short-lived never found in nature, no uses
+fermium 100 257 Fm radioactive, short-lived never found in nature, no uses
+mendelevium 101 258 Md radioactive, short-lived never found in nature, no uses
+nobelium 102 250 No radioactive, short-lived never found in nature, no uses
+lawrencium 103 260 Lr radioactive, short-lived never found in nature, no uses
+rutherfordium 104 261 Rf radioactive, short-lived never found in nature, no uses
+dubnium 105 262 Db radioactive, short-lived never found in nature, no uses
+seaborgium 106 263 Sg radioactive, short-lived never found in nature, no uses
+bohrium 107 262 Bh radioactive, short-lived never found in nature, no uses
+hassium 108 255 Hs radioactive, short-lived never found in nature, no uses
+meitnerium 109 256 Mt radioactive, short-lived never found in nature, no uses
+darmstadtium 110 269 Ds radioactive, short-lived never found in nature, no uses
+roentgenium	111 272 Rg radioactive, short-lived never found in nature, no uses

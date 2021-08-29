@@ -1,0 +1,450 @@
+1 2 sitting position
+standing position
+lying position
+none of these
+A man presses more weight on earth at :
+2 2 rise
+fall
+remain same
+none of these
+A piece of ice is dropped in a vesel containing kerosene. When ice melts, the level of kerosene will
+3 4 gas only
+both solid and liquid
+liquid only
+solid only
+Young's modulus is the property of
+4 1 angular momentum
+linear velocity
+angular displacement
+none of these
+An artificial Satellite revolves round the Earth in circular orbit, which quantity remains constant?
+5 2 conductor
+semiconductor
+insulator
+carborator
+If electrical conductivity increases with the increase of temperature of a substance, then it is a:
+6 2 work
+power
+energy
+momentum
+Product of Force and Velocity is called:
+7 4 alcohol
+methane
+kerosene
+water
+Which one of the following has the highest value of specific heat ?
+8 1 increases
+decreases
+remains same
+becomes zero
+With the increase of pressure, the boiling point of any substance
+9 2 metallic character
+non-metallic character
+basic character
+none of these
+Elecronegativity is the measure of
+10 4 centre of gravity
+centripetal force
+centrifugal force
+moment of force
+The rotational effect of a force on a body about an axis of rotation is described in terms of the
+11 1 light year
+angstrom
+weber
+lux
+What is the unit of Astronomical Distance ?
+12 3 frequency
+temperature
+velocity
+wavelength
+Bolometer is used to measure
+13 1 linear momentum
+angular momentum
+energy mass
+mass velocity
+A jet engine works on the principle of conservation of
+14 3 metric scale
+quake scale
+richter scale
+epicentre scale
+What is the scale used for measuring the intensity of the earthquake?
+15 1 kinetic energy
+potential energy
+both a and b
+none of these
+Energy possessed by a body in motion is called
+16 3 reverse osmosis
+diffusion
+centrifugation
+dialysis
+The working principle of a washing machine is
+17 1 fermi
+angstrom
+newton
+tesla
+Nuclear sizes are expressed in a unit named
+18 4 water
+vaccum
+air
+glass
+The speed of light will be minimum while passing through
+19 1 speed
+velocity
+torque
+displacement
+Which of the following is not a vector quantity?
+20 3 micro
+nanometre
+fermi
+angstrom
+The most suitable unit for expressing nuclear radius is
+21 1 parallactic second
+micro second
+leap year
+solar day
+Which of the following is not the unit of time
+22 3 convex lens
+convex mirror
+concave lens
+concave mirror
+An air bubble in water will act like a
+23 2 viscosity
+surface tension
+friction
+elasticity
+Rain drops acquire spherical shape due to 
+24 3 10^3ergs
+10^6ergs
+10^7ergs
+10^5ergs
+1 Joule is Equal to
+25 3 current
+voltage
+both a & b
+none
+Brightness of bulb depends on voltage or current?
+26 2 velocity
+frequency
+wavelength
+amplitude
+If a sound travels from air to water, the quantity that remain unchanged is
+27 3 stoning
+bolting
+thunder
+cloud clash
+Sound following a flash of lightning is called
+28 3 scattering
+interference
+total internal reflection
+refraction
+Optical fiber works on the principle of
+29 4 surface tension
+capillarity
+viscosity
+diffusion
+When a bottle of perfume is opened in one corner of a room the smell spreads soon throughout the room. This is an example of
+30 2 kinetic energy
+weight
+potential energy
+impulse
+The rate of change of linear momentum of a body falling freely under gravity is equal to it's ____ ?
+71 3 18 carat
+18 karat
+12 carat
+12 karat
+A Gold Ring which is 50% pure. Its purity can be alternatively shown as __
+72 4 KNO3,NaNO3,CaO
+NaNO3,KNO3,Ca(OH)2
+Na(OH)2,KOH,CaO
+NaNO3,KNO3,CaO
+Which among the following is the correct set of chemical formulae of Chile Saltpetre, Saltpetre and Quick Lime?
+73 2 chlorine
+flourine
+lithium
+iodine
+Which of the following is the most active chemically? 
+74 4 oxidising power of elements
+electronegativity
+non-metallic character
+reducing power
+Which of the following does not increase when we move from left to right along a period in the periodic table?
+75 4 calcium ammonium nitrate
+ammonium nitrate
+calcium nitrate
+urea
+Highest percentage of nitrogen is found in which among the following fertilizers among the given options?
+76 1 rusting of iron
+magnetisation of iron
+melting of iron
+heating of iron
+Which among the following is an example of a Chemical Change?
+77 1 oxalic acid
+acetic acid
+carbonic acid
+citric acid
+Which acid is described as HOOCCOOH?
+78 1 iron ores
+copper ores
+manganese ores
+zinc ores
+Haematite & Magnetite are ______?
+79 2 copper sulphate
+iron sulfide
+brass
+silver bromide
+Which among the following is Fool’s Gold?
+80 3 crude oil
+cooking oils
+sugar
+coal
+Double Sulphitation is the most commonly used method in India for refining of _?
+81 1 solids
+liquids
+gases
+both a and b
+In which of the following states of matter the Interatomic or intermolecular distance is fixed?
+82 1 lithium
+sodium
+potassium
+caesium
+Which of the following alkali metal ions has the highest hydration enthalpy?
+83 3 magnesium
+strontium
+beryllium
+barium
+Which of the following element has the highest first ionization enthalpy?
+84 4 platinum
+palladium
+nickel
+all
+Which of the following catalyst is used generally during the hydrogenation of Alkenes?
+85 2 functional isomers
+structural isomers
+mirror isomers
+branched isomers
+What do we call the compounds having identical molecular formula but different structures?
+86 2 marie skłodowska curie
+dmitri dendeleev
+john dalton
+amedeo avogadro
+Who among the following conceived the first recognizable periodic table of chemical elements?
+87 1 lockalloy–iron
+vitallium–cobalt
+italma-aluminium
+constantan–copper
+Choose the incorrect ‘Alloy – constituent metal’ pair:
+88 4 hydraulic washing
+magnetic separation
+froath floatation
+leaching
+Which of the following methods is most suitable for ore concentration if the ore is soluble in some suitable solvent?
+89 3 cryolite
+carnalite
+calamine
+fluorite
+Which of the following is not a Halide mineral?
+90 1 s-block elements
+p-block elements
+d-block elements
+f-block elements
+Which of the following elements have ns1 outermost electronic configuration?
+91 4 p-block
+s-block
+d-block
+f-block
+The Lanthanoids are part of which of the following block of elements in the periodic table?
+92 4 Na
+Mg
+Mg2+
+K
+Which of these species will have the largest atomic size?
+93 1 linear
+trigonal planar
+tetrahedral
+octahedral
+What is the molecular geometry of HgCl2?
+94 4 t-shaped
+bent
+see-saw
+square planar
+What is the shape of XeF4 molecule?
+95 2 positrons
+electrons
+atoms
+neutrons
+What do the dots represent in the Lewis dot structures?
+96 2 ketones
+esters
+aldehydes
+alkynes
+Which of the following is formed when an acid reacts with an alcohol?
+97 1 methane
+ethane
+acetylene
+ethene
+Which gas is produced when Sodium ethanoate is heated with Soda lime?
+98 3 120°
+75°
+109.5°
+150°
+What is the H-C-H bond angle in a methane molecule?
+99 4 pla
+pcl
+pga
+all
+Which of these is a biodegradable polymer?
+100 2 carbon
+sulphur
+potassium
+manganese
+Which of these elements is added to Natural rubber in the process of vulcanisation?
+151 2 negation 
+tautology 
+contradiction 
+none of these
+When a compound statement is true for all truth values of its components the we call it ?
+152 2 AB=0,BA=I 
+AB=BA 
+AB=BA=0 
+AB=BA=I 
+Matrices A and B will inverse of each other only if ?
+153 1 A unique solution 
+Two distinct solutions 
+No solution 
+Infinitely many solutions 
+The system of equations 3x+y-z=0, 5x+2y-3z=0, 15x+6y-9z=5 has ?
+154 1 x=1,y=2,z=3 
+x=2,y=3,z=1 
+x=2,y=1,z=3 
+x=1,y=3,z=2 
+The values of x,y,z of the equations x+y+z=6, x-y+2z=5, 2x+y-z=1 are ?
+155 3 -5/3 
+-5/2 
+5/2 
+-2/3 
+The sum of slopes of lines 3x^2 + 5xy - 2y^2 = 0 is ?
+156 2 equilateral triangle 
+isosceles triangle 
+right angled triangle 
+none of these 
+The triangle whose sides are given by the equation xy-2x-y+2=0 and 2x+3y+8=0 is ?
+157 2 |2| 
+|3| 
+|4| 
+|1| 
+The difference between the slopes of lines given by 10x^2 - 7xy + y^2 = 0 ?
+158 4 90 
+45 
+30 
+none of these 
+The angle between the lines of the equation 4x^2 +12xy + 9y^2 +10x + 15y - 36 = 0 ?
+159 4 2p 
+45 
+60 
+90 
+From any point on the circle x^2 + y^2 = a^2 tangents are drawn to the circle x^2 + y^2 = a^2cos^2(p) then the angle between the tangents is ?
+160 3 r<2 
+r>8 
+2<r<8 
+none of these 
+The circles x^2 + y^2 -10x + 16 = 0 and x^2 + y^2 -2y = 0. The locus of the middle points of these chords is ?
+161 1 1 
+2 
+3 
+4 
+The line y = mx + 1 is tangent to the parabola y^2 = 4x if m is ?
+162 3 4 
+6 
+8 
+10 
+The length of the latus rectum of the parabola x^2 - 4x - 8y + 12 = 0 ?
+163 3 x-y-a=0 
+x+y-a=0 
+x+y+a=0 
+none of these 
+Equation of the tangent at (a,2a) to y^2 = 4ax is ?
+164 2 12 
+16 
+|12| 
+-16 
+A line 4x + y + k = 0 is tangent to x^2 = 4y, then k equals to ?
+165 1 (16,|8|) 
+(8,|16|) 
+(4,|16|) 
+(|4|,16) 
+The coordinates of a point on y^2 = 4x whose focal distance is 17, is ?
+166 4 x+4y+5=0 
+x+4y-5=0 
+x-4y-5=0 
+x-4y+5=0 
+The equation of tangent to ellipse x^2 + 4y^2 = 5 at (-1,1) is ?
+167 1 2 
+6 
+8 
+10 
+A hyberbola passes through the points (3,2) & (-17,12) and has its centre at origin and transverse axis is along X-axis. The length of its transverse axis is ?
+168 4 a=3,b=5 
+a=6,b=5 
+a=-6,b=-5 
+a=-5,b=-6 
+The segment joining the points (3,a,5) and (4,6,b) is bisected by the X-axis. then ?
+169 2 1 
+2 
+-1 
+-2 
+Volume of parallelopiped whose coterminus edges represent vectors pi^ + j^ + k^, 2i^ + 3j^ + 4k^, 5i^ + 4j^ + 6k^ is 5.Then ?
+170 4 (1,2,3) 
+(2,1,3) 
+(2,3,1) 
+(3,2,1) 
+G(5,2,4) is the centriod of the triangle ABC. If A=(8,-1,3), B=(4,5,8), then C= ?
+171 3 60 
+120 
+60 or 120 
+90 
+A line make angle 45, 60 and x with the coordinate axes. Then x must be ?
+172 3 30 
+60 
+90 
+45 
+The between the planes 3x + 4y + 5z = 5 and 2x + 6y - 6z - 3 = 0 is ?
+173 1 Optimal solution of LPP 
+Objective function 
+Constraints 
+Linear assumption 
+Corner points of feasible of inequalities gives ?
+174 1 3/4 
+1/3 
+4/5 
+5/6 
+An unbiased die is thrown. Probability that the outcome is greater than 4 is ?
+175 1 8,-10,-11 
+8,10,11 
+-8,10,-11 
+8,-10,11 
+Direction ratios of the line perpendicular to two lines having direction ratios 3,-2,4 and 1,3,-2 are ?
+176 2 1/4 
+1/2 
+1/5 
+1/3 
+Three coins are tossed then what is the probability that at least who heads appear on upper face ?
+177 2 3/4 
+1/3 
+4/5 
+5/6 
+An unbiased die is thrown. Probability that the outcome is greater than 4 is ?
+178 2 3/13 
+10/13 
+3/4 
+1/4 
+Amount 52 cards, here are 12 face cards. Probability that a card drawn at random is not a face, is ?
+179 1 x=4 
+y=5 
+z=6 
+4x+5y+6z=0 
+Equation of the plane parallel to YZ plane and passing through (4,5,6) is ?
+180 2 1 
+2 
+3 
+4 
+If x,y,z are angles made by the line with coordinate axes, then sin^2x + sin^2y + sin^2z = ?
